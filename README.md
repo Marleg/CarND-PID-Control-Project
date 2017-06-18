@@ -62,4 +62,3 @@ using the following settings:
 
 * indent using spaces
 * set tab width to 2 spaces (keeps the matrices in source code aligned)
-
